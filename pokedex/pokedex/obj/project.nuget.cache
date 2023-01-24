@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "t3dHe29KQ5BKQNyYrkyUCKX3YsOL6uJZPBWvlw+pVkL+tpA6b+KQ1B9xUO/s36gqcZd4E4Z5exYgBgIUhboa8A==",
+  "success": true,
+  "projectFilePath": "D:\\Git\\Projects\\pokedex2.0\\pokedex\\pokedex\\pokedex.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leeti\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512",
+    "C:\\Users\\leeti\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
